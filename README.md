@@ -1,6 +1,6 @@
 # Web Scraping and Data Loading
 
-In this project, I want to give an example of ETL(Extract-Transform-Load) in web scraping. By collecting all the tabular data on Wiki
+In this project, I want to give an example about webscraping. By collecting all the tabular data on Wiki. 
 
 ## Description
 
